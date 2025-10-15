@@ -1,16 +1,14 @@
 # Thin2102.github.io
 #<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">
-    <title>DINH HOANG THIEN Portfolio</title>
-    <link rel="stylesheet" href="12A2-28-Dinh-Hoang-Thien.css.css">
-    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-</head>
-<body>
-    <nav>
+#<html lang="en">
+#<head>
+ #   <meta charset="UTF-8">
+  # <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">
+   #<link rel="stylesheet" href="12A2-28-Dinh-Hoang-Thien.css.css">
+    #<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+#</head>
+#<body>
+ #   <nav>
         <div class="nav-container">
             <div class="logo" data-aos="zoom-in" data-aos-duration="1000">
                 <span>Dinh Hoang Thien</span>
